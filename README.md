@@ -8,6 +8,9 @@ RAVEN is a chatbot application built using **Streamlit** and powered by the **Ge
 - **Session History**: Maintains chat history for context-aware interactions.
 - **Customizable Configuration**: Adjust model parameters like temperature, top-p, top-k, and token limits.
 
+## 🖼️ Screenshots
+
+![Screenshot](https://github.com/IAnuragMahapatra/gemini-1.5-flash-streamlit-chatbot/blob/386d4e4f3ac70920a1354e413d1a23ce1490d255/Screenshots/Screenshot1.png)
 ## Hosted Link
 Try the chatbot live here:  
 🔗 **[RAVEN - The Gemini Chatbot](https://gemini-15-flash-app-chatbot.streamlit.app/)**
@@ -29,8 +32,8 @@ Follow these steps to set up the chatbot on your local machine.
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+https://github.com/IAnuragMahapatra/gemini-1.5-flash-streamlit-chatbot.git
+cd gemini-1.5-flash-streamlit-chatbot
 ```
 
 ### 2. Install Dependencies
@@ -79,7 +82,7 @@ You can use **either** of the two methods below to configure your Google API key
 
 ### 4. Run the Application
 ```bash
-streamlit run app.py
+streamlit run main.py
 ```
 
 ### 5. Access the App
