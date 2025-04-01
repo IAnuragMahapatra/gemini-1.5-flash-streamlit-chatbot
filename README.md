@@ -13,18 +13,19 @@ RAVEN is an AI-powered chatbot built with **Streamlit** and powered by the **Gem
 
 ---
 
-## 🖼️ Screenshots
-
-![Screenshot](https://github.com/IAnuragMahapatra/gemini-1.5-flash-streamlit-chatbot/blob/386d4e4f3ac70920a1354e413d1a23ce1490d255/Screenshots/Screenshot1.png)
-
----
-
 ## 🌐 Hosted Link
 
 Try RAVEN live:  
 🔗 **[RAVEN - The Gemini Chatbot](https://gemini-15-flash-app-chatbot.streamlit.app/)**
 
 ---
+
+## 🖼️ Screenshots
+
+![Screenshot](https://github.com/IAnuragMahapatra/gemini-1.5-flash-streamlit-chatbot/blob/386d4e4f3ac70920a1354e413d1a23ce1490d255/Screenshots/Screenshot1.png)
+
+---
+
 
 ## ⚙️ Configuration Settings
 
